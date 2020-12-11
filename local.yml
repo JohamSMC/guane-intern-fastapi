@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  fastApi:
+    build:
+      context: .
+      dockerfile: ./docker-compose/local/fastApi/Dockerfile
+    image: guane-intern-fastapi_local
+    container_name: fastApi-guane-web
+    env_file:
+      - ./.envs/.local/.fastApi
+      - ./.envs/.local/.postgres
+    ports:
+      - "8000:8000"
+    command: /start-reload.sh
+    depends_on:
+      - db-postgres
+
+  db-postgres:
+    build:
+      context: .
+      dockerfile: ./docker-compose/local/postgres/Dockerfile
+    image: guane-intern-fastapi_postgres_local
+    container_name: fastApi-guane-postgres
+    env_file:
+      - ./.envs/.local/.postgres
