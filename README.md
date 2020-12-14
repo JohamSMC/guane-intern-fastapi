@@ -1,4 +1,8 @@
-# guane-intern-fastapi [<img src="https://img.shields.io/badge/version-1.0-orange" alt="Version"/>](https://github.com/JohamSMC/guane-intern-fastapi) [<img src="https://shields.io/github/license/JohamSMC/guane-intern-fastapi" alt="Licencse"/>](https://github.com/JohamSMC/guane-intern-fastapi) [![GitHub User](https://img.shields.io/badge/GitHub-JohamSMC-red?style=plastic&logo=github&link=https://github.com/JohamSMC)](https://github.com/JohamSMC) ![GitHub last commit](https://img.shields.io/github/last-commit/JohamSMC/guane-intern-fastapi) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/JohamSMC/guane-intern-fastapi)
+# guane-intern-fastapi 
+![GitHub last commit](https://img.shields.io/github/last-commit/JohamSMC/guane-intern-fastapi) 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/JohamSMC/guane-intern-fastapi?color=orange&label=version)
+![GitHub](https://img.shields.io/github/license/JohamSMC/guane-intern-fastapi)
+[![GitHub User](https://img.shields.io/badge/GitHub-JohamSMC-red?style=plastic&logo=github&link=https://github.com/JohamSMC)](https://github.com/JohamSMC)
 
 [<img src="https://img.shields.io/badge/-Docker-gray?style=flat&logo=docker" alt="Docker"/>](https://www.docker.com/)
 [<img src="https://img.shields.io/badge/-Docker%20Compose-gray?style=flat&logo=docker" alt="Docker-Compose"/>](https://docs.docker.com/compose/)
