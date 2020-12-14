@@ -10,7 +10,7 @@
 - [**docker**](https://docs.docker.com/compose/)
 - [**docker-compose**](https://docs.docker.com/compose/)
 
-### [Documentación Español](#español) :page_with_curl:
+### [Documentación Español](#español-es-colombia) :page_with_curl:
 ### [English Documentation](#english-us-uk) :page_with_curl:
 
 # Español :es: :colombia:
