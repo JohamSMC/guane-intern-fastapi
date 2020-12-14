@@ -5,13 +5,13 @@
 [<img src="https://img.shields.io/badge/-FastApi-gray?style=flat&logo=fastapi" alt="fastApi"/>](https://docs.docker.com/compose/)
 [<img src="https://img.shields.io/badge/Python-V3.8-green?style=flat&logo=python&" alt="Python"/>](https://www.python.org/)
 
-### Requirements-Requisitos:
+### ***Requirements*** - ***Requisitos***:
 
 - [**docker**](https://docs.docker.com/compose/)
 - [**docker-compose**](https://docs.docker.com/compose/)
 
 ### [Documentación Español](#español) :page_with_curl:
-### [English Documentation](#english) :page_with_curl:
+### [English Documentation](#english-us-uk) :page_with_curl:
 
 # Español :es: :colombia:
 
