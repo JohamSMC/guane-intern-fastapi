@@ -32,7 +32,6 @@ docker-compose -f local.yml build
 ```
 
 ### :two: Segundo Paso:
-### :two: Segundo Paso:
 Ejercutar el comando:
 ```
 docker-compose -f local.yml up
