@@ -19,7 +19,7 @@
 
 # Español :es: :colombia: 
 
-[Ir a Inicio](#guane-intern-fastapi----colombia)
+[Ir a Inicio](#guane-intern-fastapi)
 
 Prueba tecnica para desarrollador BackEnd, usando el lenguaje [PYTHON](https://www.python.org/) y el framework web [FastApi](https://fastapi.tiangolo.com/).
 
@@ -54,7 +54,7 @@ http://127.0.0.1:8000/redoc
 # English :us: :uk: 
 
 
-[Go top](#guane-intern-fastapi----colombia)
+[Go top](#guane-intern-fastapi)
 
 Technical test for BackEnd developer, using [PYTHON](https://www.python.org/) language and [FastApi](https://fastapi.tiangolo.com/) web framework
 
