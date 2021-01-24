@@ -1,12 +1,12 @@
 # guane-intern-fastapi 
 ![GitHub last commit](https://img.shields.io/github/last-commit/JohamSMC/guane-intern-fastapi) 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/JohamSMC/guane-intern-fastapi?color=orange&label=version)
-![GitHub](https://img.shields.io/github/license/JohamSMC/guane-intern-fastapi)
+![GitHub License](https://img.shields.io/github/license/JohamSMC/guane-intern-fastapi)
 [![GitHub User](https://img.shields.io/badge/GitHub-JohamSMC-red?style=plastic&logo=github&link=https://github.com/JohamSMC)](https://github.com/JohamSMC)
 
 [<img src="https://img.shields.io/badge/-Docker-gray?style=flat&logo=docker" alt="Docker"/>](https://www.docker.com/)
 [<img src="https://img.shields.io/badge/-Docker--Compose-gray?style=flat&logo=docker" alt="Docker-Compose"/>](https://docs.docker.com/compose/)
-[<img src="https://img.shields.io/badge/-FastApi-gray?style=flat&logo=fastapi" alt="fastApi"/>](https://docs.docker.com/compose/)
+[<img src="https://img.shields.io/badge/-FastApi-gray?style=flat&logo=fastapi" alt="fastApi"/>](https://fastapi.tiangolo.com/)
 [<img src="https://img.shields.io/badge/Python-V3.8-green?style=flat&logo=python&" alt="Python"/>](https://www.python.org/)
 
 ### ***Requirements*** - ***Requisitos***:
